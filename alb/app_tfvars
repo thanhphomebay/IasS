@@ -1,0 +1,7 @@
+project = "example-tutorials"
+
+aws_region = "us-east-2"
+createdBy = "jk"
+
+project_name = "example-alb-ec2"
+project_desc = "ALB with EC2"
